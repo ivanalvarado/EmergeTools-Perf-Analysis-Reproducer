@@ -1,6 +1,14 @@
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
+    id("com.emergetools.android") version "2.1.1"
+}
+
+emerge {
+    performance {
+        // Note that this is the relative path from the rootProject
+        projectPath.set(":performance")
+    }
 }
 
 android {
