@@ -1,6 +1,6 @@
 # EmergeTools-Perf-Analysis-Reproducer
 
-Reproducer project for Emerge Tools Performance Analysis incompatibility.
+Reproducer project for [Emerge Tools Performance Analysis](https://docs.emergetools.com/docs/android-custom-flow-performance-testing) incompatibility.
 
 ## Project Configuration
 
