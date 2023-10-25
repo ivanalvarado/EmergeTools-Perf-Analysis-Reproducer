@@ -18,5 +18,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "Emerge-Sample"
 include(":app")
-
-include(":about")
