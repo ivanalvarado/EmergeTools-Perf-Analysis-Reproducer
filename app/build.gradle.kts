@@ -7,7 +7,7 @@ plugins {
 emerge {
     performance {
         // Note that this is the relative path from the rootProject
-        projectPath.set(":performance")
+        projectPath.set(":about")
     }
 }
 
